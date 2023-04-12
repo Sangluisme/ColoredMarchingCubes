@@ -1,0 +1,7 @@
+setup.py
+colored_marching_cubes.egg-info/PKG-INFO
+colored_marching_cubes.egg-info/SOURCES.txt
+colored_marching_cubes.egg-info/dependency_links.txt
+colored_marching_cubes.egg-info/not-zip-safe
+colored_marching_cubes.egg-info/requires.txt
+colored_marching_cubes.egg-info/top_level.txt
