@@ -521,7 +521,7 @@ inline int MarchingCubes::computeLutIndex(int i, int j, int k, float isoValue)
 
     // determine cube index for lookup table
     int cubeIdx = 0;
-    // check if behind the surface
+   
  
     if (tsdf_[off1] > isoValue)
         cubeIdx |= 1;

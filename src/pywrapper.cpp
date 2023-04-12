@@ -1,3 +1,8 @@
+// Technical University of Munich
+// computer vision group
+// author: Lu Sang
+// sang@in.tum.de
+
 #include "MarchingCubes.h"
 #include "mat.h"
 
